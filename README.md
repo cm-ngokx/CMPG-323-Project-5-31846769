@@ -18,6 +18,7 @@ that are user-friendly and easy to interpret.
 
 
 ## URL to my report published on power bi
+The project is under my workspace on power bi the workspace name is Cmpg323 Project5
 To access the report
 Use the following email: 31846769@mynwu.ac.za   password: #Cherish@123
 And the following link: https://app.powerbi.com/groups/03d299eb-fdee-4d6b-accf-ab459641e1aa/list?experience=power-bi
